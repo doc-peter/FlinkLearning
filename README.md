@@ -2,9 +2,9 @@
 
 
 ### 戴资力
-Stateful Stream Processor  
+Stateful Stream Processor（有状态流失处理）  
 global consistent snapshot（全局一致的快照）  
-Checkpoint（检查点）
+Checkpoint（检查点）  
 Distributed Snapshots（分散式快照/分布式快照）  
 checkpoint barrier  
 Event Time  
