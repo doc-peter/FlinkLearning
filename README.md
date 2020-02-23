@@ -3,7 +3,7 @@
 https://github.com/flink-china/flink-training-course 学习笔记  
 
 ### 戴资力
-Stateful Stream Processor（有状态流失处理）  
+Stateful Stream Processor（有状态流式处理）  
 global consistent snapshot（全局一致的快照）  
 Checkpoint（检查点）  
 Distributed Snapshots（分散式快照/分布式快照）  
