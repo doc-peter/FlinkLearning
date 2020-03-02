@@ -26,11 +26,11 @@ DataSteam API 编程
 ### 周凯波（宝牛）
 [凯波博客](https://zhoukaibo.com/)  
 客户端操作，主要有以下五种：  
-Command Line  
-SQL Client  
-Scala Shell  
-Restful API  
-Web  
+1. Command Line  
+2. SQL Client  
+3. Scala Shell  
+4. Restful API  
+5. Web  
 
 > 是非成败转头空  
 > 青山依旧在  
