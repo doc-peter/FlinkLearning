@@ -14,7 +14,7 @@ Window Processing Time
 Watermarks  
 Savepoint（保存点）  
 
-### 沙晟阳·
+### 沙晟阳
 standalone 单机模式、standalone 集群模式、YARN 集群模式  
 Source/map() -> keyBy()/window()/apply() -> Sink  
 JobManager/TaskManager  
@@ -31,6 +31,12 @@ DataSteam API 编程
 3. Scala Shell  
 4. Restful API  
 5. Web  
+
+### 邱从贤
+Window & Time  
+
+### 孙梦瑶
+状态管理与容错机制  
 
 > 是非成败转头空  
 > 青山依旧在  
