@@ -44,6 +44,7 @@ Table API 编程
 可以把 Table API 看作是 SQL 的超集，在易用性和功能性有增强  
 
 ### 云邪
+[云邪博客](http://wuchong.me/)  
 SQL 编程  
 Window Aggregation  
 1. tumble window  
