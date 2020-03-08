@@ -39,6 +39,18 @@ Window & Time
 状态管理与容错机制  
 如果数据源不支持重发，checkpoint 就没有意义了。
 
+### 程鹤群（军长）
+Table API 编程  
+可以把 Table API 看作是 SQL 的超集，在易用性和功能性有增强  
+
+### 云邪
+SQL 编程  
+Window Aggregate  
+  1. tumble window  
+  2. hop window  
+  3. session window  
+Group Aggregate  
+
 > 是非成败转头空  
 > 青山依旧在  
 > 几度夕阳红  
