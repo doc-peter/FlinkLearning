@@ -45,11 +45,12 @@ Table API 编程
 
 ### 云邪
 SQL 编程  
-Window Aggregate  
+Window Aggregation  
 1. tumble window  
 2. hop window  
 3. session window  
-Group Aggregate  
+
+Group Aggregation  
 
 > 是非成败转头空  
 > 青山依旧在  
