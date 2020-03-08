@@ -46,9 +46,9 @@ Table API 编程
 ### 云邪
 SQL 编程  
 Window Aggregate  
-  1. tumble window  
-  2. hop window  
-  3. session window  
+1. tumble window  
+2. hop window  
+3. session window  
 Group Aggregate  
 
 > 是非成败转头空  
