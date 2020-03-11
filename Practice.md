@@ -1,4 +1,4 @@
-##设置环境变量
+## 设置环境变量
 ### 在用户目录编辑 ~/.bash_profile 文件
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home  
 export MAVEN_HOME=/Users/doc_peter/Flink/apache-maven-3.2.5  
