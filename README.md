@@ -1,6 +1,6 @@
 # FlinkLearning
 
-https://github.com/flink-china/flink-training-course 学习笔记  
+[Flink 学习课程列表](https://github.com/flink-china/flink-training-course)
 
 ## 戴资力
 * Stateful Stream Processor（有状态流式处理）  
