@@ -3,9 +3,23 @@
 [Flink 学习课程列表](https://github.com/flink-china/flink-training-course)
 
 ***学习建议***
-1. 先实践再理论。先学习应⽤，尝试构建复杂的Flink Application；
-2. 横向扩展。在构建复杂Flink⽣产业务后，横向使⽤学习Storm、Spark、DataFlow等系统，知识是演化过来的，必有前置和铺垫。多横向看看，打开视野；
-3. 关注下Apache Flink以及Flink China社区，多交流、多提问、多输出。
+1. **先实践再理论**。先学习应⽤，尝试构建复杂的Flink Application；
+2. **横向扩展**。在构建复杂Flink⽣产业务后，横向使⽤学习Storm、Spark、DataFlow等系统，知识是演化过来的，必有前置和铺垫。多横向看看，打开视野；
+3. 关注下Apache Flink以及Flink China社区，多交流、多提问、**多输出**。
+
+## 陈守元（巴真）
+* Streams 流
+  * bounded streams: 有始有终，不管计算多慢，一定会产生一个确定的结果
+  * unbounded streams: 有始无终
+* Time 时间
+  * Event Time 事件时间
+  * Processing Time 处理时间
+  * Ingestion Time 注入时间
+* Flink 适用场景
+  * 实时数仓
+  * 实时报表/大屏
+  * 风控
+* [Big Data 知识图谱](https://www.xmind.net/m/6fk4/)
 
 ## 戴资力
 * Stateful Stream Processor（有状态流式处理）  
