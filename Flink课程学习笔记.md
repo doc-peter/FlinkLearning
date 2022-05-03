@@ -2,6 +2,11 @@
 
 [Flink 学习课程列表](https://github.com/flink-china/flink-training-course)
 
+***学习建议***
+1. 先实践再理论。先学习应⽤，尝试构建复杂的Flink Application；
+2. 横向扩展。在构建复杂Flink⽣产业务后，横向使⽤学习Storm、Spark、DataFlow等系统，知识是演化过来的，必有前置和铺垫。多横向看看，打开视野；
+3. 关注下Apache Flink以及Flink China社区，多交流、多提问、多输出。
+
 ## 戴资力
 * Stateful Stream Processor（有状态流式处理）  
 * global consistent snapshot（全局一致的快照）  
