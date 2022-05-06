@@ -79,6 +79,7 @@ TO LEARN:
 ## 唐云：Flink Checkpoint-轻量级分布式快照
 ## 马庆祥：Flink 数据类型与序列化
 ## 唐云：Flink State 最佳实践
+* [为什么要管理状态？](https://zhuanlan.zhihu.com/p/104171679)
 
 ---
 
