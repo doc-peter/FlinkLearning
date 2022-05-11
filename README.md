@@ -8,6 +8,8 @@
 
 ## 学习哪些内容？
 * Flink 由来，相关技术（Spark Streaming/Storm）
+  * [上：Spark VS Flink – 下一代大数据计算引擎之争，谁主沉浮？](https://blog.51cto.com/u_14286418/2386224)
+  * [通过 GOOGLE 大数据计算平台演进理解 APACHE FLINK 前世今生](https://blog.51cto.com/luoqingchao/2349581)
 * Flink 基本概念、入门知识点
 * Flink 基本原理
 * Flink SQL
