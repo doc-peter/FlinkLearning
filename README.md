@@ -29,10 +29,12 @@
 * 腾讯
 * 百度
 * B站
+  * [bilibili 实时计算平台架构与实践](https://mp.weixin.qq.com/s/y7BgwRwZtIS5vXv3wmYb5g?spm=a2c6h.12873639.article-detail.5.45ff2feaao8B6S)
 * 美团
 * 小红书
 * 抖音
 * 快手
+  * [快手基于 Flink 构建实时数仓场景化实践](https://segmentfault.com/a/1190000040567935)
 * 京东
 * 小米
 * 58同城
